@@ -5,3 +5,5 @@ The assets of the latest version is lost so the project files are not up to date
 
 Here is the gameplay video link of the latest version.<br />
 https://www.youtube.com/watch?v=k4shCG8aMcg
+
+Play the game on Play store https://play.google.com/store/apps/details?id=com.Eray.PegSolitaire3D
